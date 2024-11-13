@@ -1,0 +1,16 @@
+header{
+    height: 50px;
+    width: 100%;
+    background-color: #30363d;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+h1{
+    color: white;
+    font-family: 'Roboto';
+    font-size: 25px;
+    font-weight: 500;
+    
+}
